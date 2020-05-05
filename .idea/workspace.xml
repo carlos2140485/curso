@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e6699b-3bc4-4773-be53-bcbf2fe370d5" name="Default Changelist" comment="aprendendo a imprimir numeros interios">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade 2/capitulo 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade 2/script01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidade 2/capitulo 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidade 2/capitulo 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,29 @@
       <recent name="C:\Users\Carlos\PycharmProjects\curso1\capitulo2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.capitulo 1 (1)">
-    <configuration name="capitulo 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FUNÇÃO FORMAT">
+    <configuration name="FUNÇÃO FORMAT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade 2/FUNÇÃO FORMAT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="capitulo 1 (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="curso1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,9 +109,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="capitulo 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade 2/capitulo 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade 2/script01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.capitulo 1 (1)" />
+        <item itemvalue="Python.FUNÇÃO FORMAT" />
+        <item itemvalue="Python.script01" />
+        <item itemvalue="Python.capitulo 2" />
         <item itemvalue="Python.capitulo 1" />
       </list>
     </recent_temporary>
@@ -128,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588632470199</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="VARIÁVEIS">
+      <created>1588632979669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588632979669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="VARIÁVEIS">
+      <created>1588633586283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588633586283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,40 +219,62 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aprendendo a imprimir" />
     <MESSAGE value="aprendendo a imprimir numeros interios" />
-    <option name="LAST_COMMIT_MESSAGE" value="aprendendo a imprimir numeros interios" />
+    <MESSAGE value="VARIÁVEIS" />
+    <option name="LAST_COMMIT_MESSAGE" value="VARIÁVEIS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1629" y="115" key="#capitulo_1" timestamp="1588631574284">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1629" y="115" key="#capitulo_1/0.0.2560.1040@0.0.2560.1040" timestamp="1588631574284" />
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588633840391">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1588633840391" />
     <state x="1373" y="100" width="1094" height="840" key="DiffContextDialog" timestamp="1588632680992">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1373" y="100" width="1094" height="840" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1588632680992" />
-    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1588632680976">
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1588637484828">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1588632680976" />
-    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1588632680976">
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1588637484828" />
+    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1588637484828">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1588632680976" />
-    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1588632680976">
+    <state width="1256" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1588637484828" />
+    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1588637484828">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1588632680976" />
-    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1588632680976">
+    <state width="1256" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1588637484828" />
+    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1588637484828">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1588632680976" />
-    <state x="1512" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588632477494">
+    <state width="1256" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1588637484828" />
+    <state width="1256" height="344" key="GridCell.Tab.1.bottom" timestamp="1588633728135">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1512" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1588632477494" />
+    <state width="1256" height="344" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1588633728135" />
+    <state width="1256" height="344" key="GridCell.Tab.1.center" timestamp="1588633728135">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="344" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1588633728135" />
+    <state width="1256" height="344" key="GridCell.Tab.1.left" timestamp="1588633728135">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="344" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1588633728135" />
+    <state width="1256" height="344" key="GridCell.Tab.1.right" timestamp="1588633728135">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="344" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1588633728135" />
+    <state x="1512" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588633603654">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1512" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1588633603654" />
   </component>
 </project>
